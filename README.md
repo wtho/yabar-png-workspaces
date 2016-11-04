@@ -15,7 +15,8 @@ I do not ship any icons, you have to find icons on your own. You can find the ic
 
 You have to add a block in yabar for each workspace (even if it is not displayed when inactive)
 
-'''
+```
+
 bar: {
 	...
 	block-list: ["ws1", "ws2"];
@@ -43,4 +44,4 @@ bar: {
 	}
 }
 
-'''
+```
